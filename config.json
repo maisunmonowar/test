@@ -1,0 +1,6 @@
+{
+	"mqtt_host": "P-080",
+	"mqtt_port": 1883,
+	"start_topic": "mission_ground_receiver/command/start_record",
+	"stop_topic": "mission_ground_receiver/command/stop_record"
+}

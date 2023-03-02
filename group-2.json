@@ -1,0 +1,41 @@
+{
+	"group_name": "group-2",
+	"SATELLITE_NAME": "QPS-SAR-6",
+	"msg": [
+		{
+			"ch": 1,
+			"method": "DVBS2_16APSK",
+			"file": "filename1.l3"
+		},
+		{
+			"ch": 2,
+			"method": "DVBS2_16APSK",
+			"file": "filename2.l3"
+		},
+		{
+			"ch": 3,
+			"method": "DVBS2_16APSK",
+			"file": "filename3.l3"
+		},
+		{
+			"ch": 4,
+			"method": "DVBS2_16APSK",
+			"file": "filename4.l3"
+		},
+		{
+			"ch": 5,
+			"method": "DVBS2_16APSK",
+			"file": "filename5.l3"
+		},
+		{
+			"ch": 6,
+			"method": "DVBS2_16APSK",
+			"file": "filename6.l3"
+		},
+		{
+			"ch": 7,
+			"method": "DVBS2_16APSK",
+			"file": "filename7.l3"
+		}
+	]
+}
